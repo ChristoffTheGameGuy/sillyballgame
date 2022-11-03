@@ -1,3 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
 /Assets/ExampleAssets/Models/ConstructionLight_Low.fbx filter=lfs diff=lfs merge=lfs -text
 /Assets/ExampleAssets/Models/Workbench.fbx filter=lfs diff=lfs merge=lfs -text
 /Assets/ExampleAssets/Models/Workbench_Low.fbx filter=lfs diff=lfs merge=lfs -text
